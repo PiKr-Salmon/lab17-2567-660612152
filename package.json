@@ -23,5 +23,9 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.11",
     "typescript": "^5"
-  }
+  },
+  "description": "รหัส นศ.:",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
